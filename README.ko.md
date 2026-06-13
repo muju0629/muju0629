@@ -75,6 +75,8 @@
 
 ### 🗺️ 대표 프로젝트 — AROUND · 서울 문화 지도
 
+<a href="https://around-culture-map-brpc.vercel.app/"><img src="assets/around/landing.png" width="640" alt="AROUND — 서울 문화 지도" /></a>
+
 *서울의 음악, 전시, 축제와 문화공간을 지도와 AI 큐레이터로 탐색하는*
 *반응형 웹 프로토타입입니다.*
 

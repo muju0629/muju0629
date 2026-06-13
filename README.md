@@ -76,6 +76,8 @@ in a good movie, or with headphones on — running, films, and music are kind of
 
 ### 🗺️ Featured — AROUND · Seoul Culture Map
 
+<a href="https://around-culture-map-brpc.vercel.app/"><img src="assets/around/landing.png" width="640" alt="AROUND — Seoul Culture Map" /></a>
+
 *Discover Seoul's music, exhibitions, festivals and cultural spaces through an*
 *interactive map and an AI curator. A responsive web prototype.*
 
