@@ -90,9 +90,7 @@ SensCore-Lab. 🏃 I love running, 🎞️ I'm a cinephile, and 🎶 I listen to
 
 ### 📂 Other work
 
-🎮 **[Outbreak Simulator](https://github.com/muju0629)** — defensive epidemic-containment strategy game (React · TS · Vite), Korea's 17 regions<br/>
 🧬 **[UV-27 Virus Simulation](https://github.com/muju0629)** — Python OOP simulation engine with a React + TS visualization panel<br/>
-🤖 **[Claude Discord Bot](https://github.com/muju0629)** — mention-only Discord bot wired to the Anthropic Claude API<br/>
-📊 **Motor Classification** — video/feature ML pipeline built with PyTorch
+🎵 **[Unheard](https://github.com/muju0629/unheard)** — a music recommender that surfaces songs you probably haven't heard yet, built from your Apple Music export (Python · TF-IDF · Streamlit)
 
 </div>

@@ -89,9 +89,7 @@
 
 ### 📂 그 외 작업
 
-🎮 **[Outbreak Simulator](https://github.com/muju0629)** — 대한민국 17개 시도의 확산을 모델링한 방어형 전략 게임 (React · TS · Vite)<br/>
 🧬 **[UV-27 바이러스 시뮬레이션](https://github.com/muju0629)** — Python 객체지향 엔진과 React + TS 시각화 패널<br/>
-🤖 **[Claude Discord Bot](https://github.com/muju0629)** — 멘션된 메시지만 Anthropic Claude API로 전달하는 Discord 봇<br/>
-📊 **Motor Classification** — PyTorch로 만든 영상/특징 기반 ML 파이프라인
+🎵 **[Unheard](https://github.com/muju0629/unheard)** — Apple Music 내보내기로 취향을 분석해 아직 안 들어본 곡을 추천하는 음악 추천기 (Python · TF-IDF · Streamlit)
 
 </div>
