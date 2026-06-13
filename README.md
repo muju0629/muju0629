@@ -6,11 +6,12 @@
 
 <br/>
 
-# 🎬 Sungjeh Yoon 🎧
+# Sungjeh Yoon
 
-Hi! I'm Sungjeh Yoon — a third-year student in the SSAI department at Hankuk
-University of Foreign Studies (HUFS) and an undergraduate researcher at
-SensCore-Lab. 🏃 I love running, 🎞️ I'm a cinephile, and 🎶 I listen to a *lot* of music.
+Hey, I'm Sungjeh! I'm a third-year student in the SSAI department at Hankuk
+University of Foreign Studies (HUFS), and I do research as an undergraduate at
+SensCore-Lab. When I'm not studying, you'll usually find me out on a run, lost
+in a good movie, or with headphones on — running, films, and music are kind of my thing.
 
 ---
 
