@@ -6,18 +6,14 @@
 
 <br/>
 
-# 윤성제
-
-**한국외국어대학교 SSAI학부 · SensCore-Lab 학부연구생**
-
-</div>
+# 🎬 윤성제 🎧
 
 안녕하세요! 한국외국어대학교 SSAI학부 3학년이자 SensCore-Lab 소속 학부연구생
-윤성제입니다. 저는 러닝도 좋아하고, 시네필이기도 하고, 음악도 정말 많이 들어요!
+윤성제입니다. 🏃 러닝도 좋아하고, 🎞️ 시네필이기도 하고, 🎶 음악도 정말 많이 들어요!
 
 ---
 
-### 인생 영화 탑 3
+### 🎞️ 인생 영화 탑 3
 
 <table>
   <tr>
@@ -32,7 +28,7 @@
   </tr>
 </table>
 
-### 요즘 많이 듣는 음악
+### 🎧 요즘 많이 듣는 음악
 
 <table>
   <tr>
@@ -53,7 +49,7 @@
 
 ---
 
-### 기술 스택
+### 🛠️ 기술 스택
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-11110F?style=flat-square&logo=react&logoColor=f1f0ec" alt="React" />
@@ -76,32 +72,26 @@
 
 ---
 
-### 대표 프로젝트 — AROUND · 서울 문화 지도
+### 🗺️ 대표 프로젝트 — AROUND · 서울 문화 지도
 
-> 서울의 음악, 전시, 축제와 문화공간을 지도와 AI 큐레이터로 탐색하는
-> 반응형 웹 프로토타입입니다.
+*서울의 음악, 전시, 축제와 문화공간을 지도와 AI 큐레이터로 탐색하는*
+*반응형 웹 프로토타입입니다.*
 
-- **지도** — Leaflet과 OpenStreetMap 기반 서울 행사 지도
-- **필터** — 날짜, 가격, 카테고리별 탐색
-- **AI 큐레이터** — Groq 기반, 공식 출처가 확인된 행사만 추천
-- **상세** — 에디토리얼 소개, 공식 이미지, 위치와 관람 정보
-- **찜** — localStorage 기반 즐겨찾기
+🗺️ **지도** — Leaflet과 OpenStreetMap 기반 서울 행사 지도<br/>
+🔎 **필터** — 날짜, 가격, 카테고리별 탐색<br/>
+🤖 **AI 큐레이터** — Groq 기반, 공식 출처가 확인된 행사만 추천<br/>
+🖼️ **상세** — 에디토리얼 소개, 공식 이미지, 위치와 관람 정보<br/>
+⭐ **찜** — localStorage 기반 즐겨찾기
 
 **기술** React · TypeScript · Vite · Leaflet · Groq · Vercel
 
 **[↗ 라이브 데모](https://around-culture-map-brpc.vercel.app/)** &nbsp;·&nbsp; [저장소](https://github.com/muju0629/around-culture-map)
 
-### 그 외 작업
+### 📂 그 외 작업
 
-- **[Outbreak Simulator](https://github.com/muju0629)** — 대한민국 17개 시도의 확산을 모델링한 방어형 확산 차단 전략 게임 (React · TS · Vite)
-- **[UV-27 바이러스 시뮬레이션](https://github.com/muju0629)** — Python 객체지향 시뮬레이션 엔진과 React + TS 시각화 패널
-- **[Claude Discord Bot](https://github.com/muju0629)** — 멘션된 메시지만 Anthropic Claude API로 전달하는 Discord 봇
-- **Motor Classification** — PyTorch로 만든 영상/특징 기반 ML 파이프라인
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muju0629&show_icons=true&hide_border=true&bg_color=f1f0ec&title_color=11110f&text_color=454541&icon_color=11110f" alt="GitHub stats" />
+🎮 **[Outbreak Simulator](https://github.com/muju0629)** — 대한민국 17개 시도의 확산을 모델링한 방어형 전략 게임 (React · TS · Vite)<br/>
+🧬 **[UV-27 바이러스 시뮬레이션](https://github.com/muju0629)** — Python 객체지향 엔진과 React + TS 시각화 패널<br/>
+🤖 **[Claude Discord Bot](https://github.com/muju0629)** — 멘션된 메시지만 Anthropic Claude API로 전달하는 Discord 봇<br/>
+📊 **Motor Classification** — PyTorch로 만든 영상/특징 기반 ML 파이프라인
 
 </div>

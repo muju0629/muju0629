@@ -6,19 +6,15 @@
 
 <br/>
 
-# Sungjeh Yoon
-
-**SSAI @ HUFS · Undergraduate researcher, SensCore-Lab**
-
-</div>
+# 🎬 Sungjeh Yoon 🎧
 
 Hi! I'm Sungjeh Yoon — a third-year student in the SSAI department at Hankuk
 University of Foreign Studies (HUFS) and an undergraduate researcher at
-SensCore-Lab. I love running, I'm a cinephile, and I listen to a *lot* of music.
+SensCore-Lab. 🏃 I love running, 🎞️ I'm a cinephile, and 🎶 I listen to a *lot* of music.
 
 ---
 
-### Lifetime top 3 films
+### 🎞️ Lifetime top 3 films
 
 <table>
   <tr>
@@ -33,7 +29,7 @@ SensCore-Lab. I love running, I'm a cinephile, and I listen to a *lot* of music.
   </tr>
 </table>
 
-### On repeat
+### 🎧 On repeat
 
 <table>
   <tr>
@@ -54,7 +50,7 @@ SensCore-Lab. I love running, I'm a cinephile, and I listen to a *lot* of music.
 
 ---
 
-### Stack
+### 🛠️ Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-11110F?style=flat-square&logo=react&logoColor=f1f0ec" alt="React" />
@@ -77,32 +73,26 @@ SensCore-Lab. I love running, I'm a cinephile, and I listen to a *lot* of music.
 
 ---
 
-### Featured — AROUND · Seoul Culture Map
+### 🗺️ Featured — AROUND · Seoul Culture Map
 
-> Discover Seoul's music, exhibitions, festivals and cultural spaces through an
-> interactive map and an AI curator. A responsive web prototype.
+*Discover Seoul's music, exhibitions, festivals and cultural spaces through an*
+*interactive map and an AI curator. A responsive web prototype.*
 
-- **Map** — Leaflet + OpenStreetMap event map across Seoul
-- **Filters** — by date, price, and category
-- **AI curator** — Groq-powered, recommends only source-verified events
-- **Details** — editorial write-ups, official imagery, venue & visit info
-- **Saves** — localStorage-based favorites
+🗺️ **Map** — Leaflet + OpenStreetMap event map across Seoul<br/>
+🔎 **Filters** — by date, price, and category<br/>
+🤖 **AI curator** — Groq-powered, recommends only source-verified events<br/>
+🖼️ **Details** — editorial write-ups, official imagery, venue & visit info<br/>
+⭐ **Saves** — localStorage-based favorites
 
 **Built with** React · TypeScript · Vite · Leaflet · Groq · Vercel
 
 **[↗ Live demo](https://around-culture-map-brpc.vercel.app/)** &nbsp;·&nbsp; [Repo](https://github.com/muju0629/around-culture-map)
 
-### Other work
+### 📂 Other work
 
-- **[Outbreak Simulator](https://github.com/muju0629)** — a defensive epidemic-containment strategy game (React · TS · Vite) modeling spread across Korea's 17 regions
-- **[UV-27 Virus Simulation](https://github.com/muju0629)** — a Python OOP simulation engine with a React + TS visualization panel
-- **[Claude Discord Bot](https://github.com/muju0629)** — a mention-only Discord bot wired to the Anthropic Claude API
-- **Motor Classification** — a video/feature ML pipeline built with PyTorch
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muju0629&show_icons=true&hide_border=true&bg_color=f1f0ec&title_color=11110f&text_color=454541&icon_color=11110f" alt="GitHub stats" />
+🎮 **[Outbreak Simulator](https://github.com/muju0629)** — defensive epidemic-containment strategy game (React · TS · Vite), Korea's 17 regions<br/>
+🧬 **[UV-27 Virus Simulation](https://github.com/muju0629)** — Python OOP simulation engine with a React + TS visualization panel<br/>
+🤖 **[Claude Discord Bot](https://github.com/muju0629)** — mention-only Discord bot wired to the Anthropic Claude API<br/>
+📊 **Motor Classification** — video/feature ML pipeline built with PyTorch
 
 </div>
