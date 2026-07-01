@@ -8,10 +8,10 @@
 
 # Sungjeh Yoon
 
-Hey, I'm Sungjeh! I'm a third-year student in the SSAI department at Hankuk
+Hey, I'm Sungjeh! But I also go by Jayden. I'm currently a junior at the SSAI department at Hankuk
 University of Foreign Studies (HUFS), and I do research as an undergraduate at
-SensCore-Lab. When I'm not studying, you'll usually find me out on a run, lost
-in a good movie, or with headphones on — running, films, and music are kind of my thing.
+SensCore-Lab. Outside academics, you could find me out on a run, watching
+a movie, or digging new music. I also lived couple years out in Chi town.
 
 ---
 
