@@ -58,7 +58,7 @@ a movie, or digging new music. I also lived couple years out in Chi town.
   <img src="https://img.shields.io/badge/TypeScript-11110F?style=flat-square&logo=typescript&logoColor=f1f0ec" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-11110F?style=flat-square&logo=javascript&logoColor=f1f0ec" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vite-11110F?style=flat-square&logo=vite&logoColor=f1f0ec" alt="Vite" />
-  <img src="https://https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=f1f0ec" alt="Swift" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=f1f0ec" alt="Swift" />
   <img src="https://img.shields.io/badge/HTML5-11110F?style=flat-square&logo=html5&logoColor=f1f0ec" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-11110F?style=flat-square&logo=css3&logoColor=f1f0ec" alt="CSS3" />
   <img src="https://img.shields.io/badge/Leaflet-11110F?style=flat-square&logo=leaflet&logoColor=f1f0ec" alt="Leaflet" />
